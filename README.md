@@ -23,8 +23,7 @@ I'm an adaptable and fast learner who enjoys solving problems and picking up new
 - Contributing to open source projects and fixing beginner-friendly issues
 
 ## 🤝 Let's Connect!
-- 📫 Reach me: [sirishakota1809@gmail.com]  
-- 🔗 Portfolio (coming soon)  
+- 📫 Reach me: [sirishakota1809@gmail.com] 
 - 💬 Open to collaboration, feedback, and cool project ideas!
 
 ---
