@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sirisha
+# Hi there 👋 I'm Sirisha Kota
 
 I'm an adaptable and fast learner who enjoys solving problems and picking up new technologies quickly. Whether it's front-end design, databases, or scripting, I dive in with confidence and curiosity.
 
